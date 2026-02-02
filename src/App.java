@@ -1,15 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        double num = Math.PI;
-        System.out.println("PI értéke: " + num);
-        System.out.println(Math.abs(-25));
-        System.out.println(Math.pow(2, 4));
-        System.out.println(Math.sqrt(9));
-        double szog = 30;
-        double rad = szog * Math.PI / 180;
-        System.out.println(Math.sin(rad));
-        System.out.println(Math.cos(rad));
-        System.out.println(Math.tan(rad));
-        System.out.println(Math.round(3.5));
+            // Matek.csinald();
+            Veletlen.csinald();
     }
 }
